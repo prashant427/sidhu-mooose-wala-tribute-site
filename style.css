@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: ; */
+}
+.navbar{
+    background-color: rgb(34, 34, 34) /*#d6f3e9*/;
+    height: 10vw;
+
+}
+.logo {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    width: 95px;
+    height: 80px;
+    margin: 5px 10px;
+    border-radius: 30px;
+    box-shadow: 1px 0px 31px #24242c;
+}
+.logo p{
+    color: aliceblue;
+    font-family: 'Vina Sans', cursive;
+    font-size: 30px;
+
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+ul{
+    list-style: none;
+    margin: 10px 12px;
+}
+
+a {
+    font-family: 'sigma' ;
+    margin: 20px;
+    padding: 10px 15px;
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(67, 66, 66) /*#e0fff6*/;
+    border-radius: 12px;
+    text-decoration: none;
+    
+}
+#content{
+    margin: 0px 115px;
+    padding-bottom: 5px;
+    background-color: rgb(243, 239, 224) /*#d9e0f7*/;
+    height: auto;
+    width: 80vw;
+}
+.saprater{
+    margin: 0px 115px;
+    width: 80vw;
+}
+.front-img{
+    
+    margin: 12px 232px;
+    height: 25vw;
+    
+}
+.title{
+    font-family: 'Castoro Titling', cursive;
+    text-align: center;
+}
+.text-contant{
+    width: 80%;
+    margin: 12px 120px;
+    font-family: 'Castoro Titling';
+}
+.footer{
+    background-color: rgb(34, 34, 34) /*#d6f3e9*/;
+    height: auto;
+    text-align: center;
+}
+.footer p{
+    font-family: 'Castoro Titling', cursive;
+
+    margin: 10px;
+    color: aliceblue;
+}
