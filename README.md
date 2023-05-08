@@ -8,7 +8,7 @@ and another page called music were you have some songs to lisen sidhu moose wala
 and about pages
 
 
-**impatent**
+**impotent**
 this side have some unfinsed work which i left knowingly or unknowingly like
 
 
